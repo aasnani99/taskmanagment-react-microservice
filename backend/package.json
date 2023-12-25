@@ -1,0 +1,28 @@
+{
+  "name": "taskmanagment-react-microservice",
+  "version": "1.0.0",
+  "description": "The Simple Task Management System is a basic web application developed using Node.js, Express.js, and Sequelize with PostgreSQL as the database. The system allows users to register, log in, and manage tasks. It is structured as a microservices architecture with two main components: the User Service and the Task Service.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ansshiekh/taskmanagment-react-microservice.git"
+  },
+  "keywords": [
+    "react",
+    "docker",
+    "microservice",
+    "task",
+    "manager",
+    "app"
+  ],
+  "author": "Muhammad Ans Qadri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ansshiekh/taskmanagment-react-microservice/issues"
+  },
+  "homepage": "https://github.com/ansshiekh/taskmanagment-react-microservice#readme"
+}
