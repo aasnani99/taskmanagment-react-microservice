@@ -12,7 +12,7 @@ const Login = () => {
                 <a href="/forgotpassword"> Forgot password</a><br />
                 <br />
                 <input type="checkbox" id="remember" />
-                <label htmlFor="remember">Remember me</label><br />
+                <label htmlFor="remember">Remember me pleaseeee</label><br />
                 <br />
                 <button type="submit">Login</button><br />
                 <br />
